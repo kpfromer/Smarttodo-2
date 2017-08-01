@@ -1,0 +1,17 @@
+{
+  "name": "smarttodo",
+  "version": "1.0.0",
+  "description": "A smarter todo list app",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Kyle Pfromer",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.1.0",
+    "mocha": "^3.5.0",
+    "supertest": "^3.0.0",
+    "testdouble": "^3.2.2"
+  }
+}
